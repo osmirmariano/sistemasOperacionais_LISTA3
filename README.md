@@ -1,0 +1,2 @@
+# sistemasOperacionais_LISTA3
+Implementação monitor
