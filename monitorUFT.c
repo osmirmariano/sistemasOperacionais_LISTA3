@@ -6,7 +6,7 @@
 #include <time.h>
 
 #define numAcentos 4 //Quantidade de acentos disponíveis de acordo com o problema proposto
-#define tempDormirMax 2 //Definindo o tempo de dormir
+#define tempDormirMax 2 //Definindo o tempo de dormir.
 
 
 //Criando as variáveis semáforos 
